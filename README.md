@@ -319,30 +319,7 @@ Publish the website in the given URL.
     background-clip: text;
     text-decoration: none;
   }
-
-  /*Scroll Bar Configuration*/
-
-  ::-webkit-scrollbar {
-    width: 10px;
-  }
-
-  ::-webkit-scrollbar-track {
-    width: 5px;
-    background: grey;
-    box-shadow: inset 0 0 5px grey;
-    border-radius: 10px;
-  }
-
-  ::-webkit-scrollbar-thumb {
-    background: #7700ff;
-    border-radius: 3px;
-  }
-
-  ::-webkit-scrollbar-thumb:hover {
-    background: #7700ff;
-  }
 </style>
-
 </html>
 
 ```
